@@ -32,8 +32,8 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body className={`${ms.className} `}>
-                <div className="w-screen h-screen flex">
-                    <Sidenav />
+                <Sidenav />
+                <div className=" mt-20 flex">
                     <div className=" h-full w-full ">{children}</div>
                 </div>
             </body>

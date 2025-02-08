@@ -7,9 +7,26 @@ import GoogleIcon from "@mui/icons-material/Google";
 import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 const login = () => {
     const router = useRouter();
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
+
+    const login = async () => {
+        // const response = await fetch("http://localhost:8000/auth/login", {
+        //     method: "POST",
+        //     headers: {
+        //         "Content-Type": "application/json",
+        //     },
+        //     body: JSON.stringify({ email, password }),
+        // });
+        // const data = await response.json();
+        // console.log(data);
+
+        router.push("/simuler");
+    };
 
     return (
         <>
@@ -20,8 +37,9 @@ const login = () => {
                 }}
             >
                 <Card className="w-[800px] p-8 flex flex-col gap-8">
-                    <div className="flex justify-center w-[200px]  overflow-clip m-auto">
-                        <Image src={"/logo.png"} width={250} alt="" height={250} />
+                    <div className="flex justify-center w-[200px]  overflow-clip m-auto  items-center gap-4 font-bold">
+                        <Image src={"/logo.png"} width={40} alt="" height={40} />
+                        ANALEASE
                     </div>
                     <div className=" flex ">
                         <div className="flex flex-col gap-12 w-1/2 border-r-2 p-4">
@@ -48,21 +66,27 @@ const login = () => {
                             <div className="flex flex-col gap-12 items-center w-full">
                                 <div className="relative w-full">
                                     <p className="absolute -top-6 text-sm text-gray-500">Username</p>
-                                    <Input className="text-lg rounded-lg py-6 " />
+                                    <Input
+                                        className="text-lg rounded-lg py-6 "
+                                        value={email}
+                                        onChange={(e) => setEmail(e.target.value)}
+                                    />
                                 </div>
                                 <div className="relative w-full">
                                     <p className="absolute -top-6 text-sm text-gray-500">Password</p>
 
-                                    <Input type="password" className="text-lg rounded-lg py-6" />
+                                    <Input
+                                        type="password"
+                                        className="text-lg rounded-lg py-6"
+                                        value={password}
+                                        onChange={(e) => setPassword(e.target.value)}
+                                    />
                                     <p className="flex justify-end text-xs text-gray-500 hover:underline p-1 cursor-pointer">
                                         Forgot Password?
                                     </p>
                                 </div>
                                 <CardFooter className="flex justify-end">
-                                    <Button
-                                        className="text-md bg-blue-300 h-12 rounded-xl"
-                                        onClick={() => router.push("/dashboard")}
-                                    >
+                                    <Button className="text-md bg-blue-300 h-12 rounded-xl" onClick={() => login()}>
                                         Accéder à la Plateforme
                                     </Button>
                                 </CardFooter>
