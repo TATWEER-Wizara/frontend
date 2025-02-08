@@ -1,0 +1,352 @@
+[
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 1
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 2
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 3
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 4
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 5
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 6
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 7
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 8
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 9
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 10
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 11
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 12
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 13
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 14
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 15
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 16
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 17
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 18
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 19
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 20
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 21
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 22
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 23
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 24
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 25
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 26
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 27
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 28
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 29
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 30
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 31
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 32
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 33
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 34
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 35
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 36
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 37
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 38
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 39
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 40
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 41
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 42
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 43
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 44
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 45
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 46
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 47
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 48
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 49
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 50
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 51
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 52
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 53
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 54
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 55
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 56
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 57
+    },
+    {
+        "Risque": "Quality Risk - Problèmes de qualité des produits pouvant conduire à des rappels et nuire à la réputation de l'entreprise.",
+        "Decision": "Renforcer les contrôles qualité et instaurer des audits réguliers pour garantir la conformité.",
+        "ID": 58
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 59
+    },
+    {
+        "Risque": "Market Risk - Changements rapides dans la demande du marché pouvant affecter la rentabilité.",
+        "Decision": "Réaliser des études de marché régulières et adapter rapidement les stratégies marketing et de production.",
+        "ID": 60
+    },
+    {
+        "Risque": "Logistical Risk - Perturbations dans la chaîne logistique entraînant des retards de livraison et des ruptures de stock.",
+        "Decision": "Optimiser les itinéraires, diversifier les partenaires logistiques et améliorer le suivi des expéditions.",
+        "ID": 61
+    },
+    {
+        "Risque": "Supply Chain Risk - Dépendance excessive à un fournisseur ou perturbations dans l'approvisionnement des matières premières.",
+        "Decision": "Diversifier les fournisseurs et constituer des stocks de sécurité pour minimiser les interruptions.",
+        "ID": 62
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 63
+    },
+    {
+        "Risque": "Technology Risk - Obsolescence ou défaillance des systèmes technologiques affectant la production et la planification.",
+        "Decision": "Investir dans la modernisation des technologies et former les équipes aux nouvelles solutions.",
+        "ID": 64
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 65
+    },
+    {
+        "Risque": "Environmental Risk - Risques liés aux normes environnementales et aux impacts climatiques sur la production.",
+        "Decision": "Adopter des pratiques durables et investir dans des technologies vertes pour réduire l'empreinte environnementale.",
+        "ID": 66
+    },
+    {
+        "Risque": "Operational Risk - Défaillances dans les processus internes entraînant des inefficacités et des retards opérationnels.",
+        "Decision": "Mettre en œuvre des contrôles qualité stricts et une gestion proactive des opérations.",
+        "ID": 67
+    },
+    {
+        "Risque": "Financial Risk - Risque de dépassement de budget dû à des coûts imprévus et une planification financière insuffisante.",
+        "Decision": "Renégocier les coûts, ajuster les prévisions budgétaires et surveiller de près les dépenses.",
+        "ID": 68
+    },
+    {
+        "Risque": "Production Risk - Incapacité à augmenter la production face à une demande croissante en raison de limitations d'équipement et de main-d'œuvre.",
+        "Decision": "Investir dans des équipements modernes et renforcer la formation du personnel pour augmenter la capacité de production.",
+        "ID": 69
+    },
+    {
+        "Risque": "Regulatory Risk - Changements dans la réglementation pouvant impacter les opérations et augmenter les coûts de conformité.",
+        "Decision": "Mettre en place une veille réglementaire continue et adapter rapidement les processus internes.",
+        "ID": 70
+    }
+]

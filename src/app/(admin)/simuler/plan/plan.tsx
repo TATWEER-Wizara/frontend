@@ -8,28 +8,36 @@ import second from "@/../public/second.png";
 import third from "@/../public/third.png";
 import Image from "next/image";
 import { Loader2, Trash2, Upload } from "lucide-react";
-
-export const Step = ({ step, setStep }: { step: number; setStep: Dispatch<SetStateAction<number>> }) => {
+import file from "@/../public/ibp_processes.json";
+import file2 from "@/../public/ibp_constraints.json";
+export const Step = ({
+    step,
+    setStep,
+    setData,
+}: {
+    step: number;
+    setStep: Dispatch<SetStateAction<number>>;
+    setData: any;
+}) => {
     const [prevision, setPrevision] = useState("");
     const [process, setProcess] = useState<string[]>([]);
     const [constraints, setConstraints] = useState<string[]>([]);
-    const [width, setWidth] = useState(0);
     const [loading, setLoading] = useState(false);
 
     const fetchProceess = () => {
         setLoading(true);
         setTimeout(() => {
-            setProcess(["process1", "process2", "process3"]);
+            setProcess(file.map((e) => e.Processus));
             setLoading(false);
-        }, 8500);
+        }, 1000);
     };
 
     const fetchConstraints = () => {
         setLoading(true);
         setTimeout(() => {
-            setConstraints(["constraint1", "constraint2", "constraint3"]);
+            setConstraints(file2.map((e) => e.Constraint_Type));
             setLoading(false);
-        }, 8500);
+        }, 1000);
     };
 
     return (
@@ -207,7 +215,13 @@ export const Step = ({ step, setStep }: { step: number; setStep: Dispatch<SetSta
             )}
 
             <Button
-                onClick={() => setStep(step + 1)}
+                onClick={() => {
+                    if (step <= 1) {
+                        setStep(step + 1);
+                    } else {
+                        setData({ previsions: [prevision], processes: process, constraints });
+                    }
+                }}
                 className="bg-blue-500 text-white px-4 py-2 rounded w-fit self-end mt-4"
             >
                 Suivant

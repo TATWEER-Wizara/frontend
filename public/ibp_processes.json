@@ -1,0 +1,352 @@
+[
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Demand Forecasting",
+        "Description": "Processus d'estimation de la demande future basé sur des analyses historiques et actuelles, intégrant les contraintes de production, logistique et gestion des stocks pour anticiper les fluctuations du marché.",
+        "Objectif": "Aligner la production sur la demande et optimiser les niveaux d'inventaire."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Operational Efficiency",
+        "Description": "Amélioration continue des processus internes, en optimisant simultanément la production, la logistique et la gestion des stocks afin de réduire les gaspillages et améliorer la productivité.",
+        "Objectif": "Augmenter l'efficience globale et réduire les coûts opérationnels."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Operational Efficiency",
+        "Description": "Amélioration continue des processus internes, en optimisant simultanément la production, la logistique et la gestion des stocks afin de réduire les gaspillages et améliorer la productivité.",
+        "Objectif": "Augmenter l'efficience globale et réduire les coûts opérationnels."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Demand Forecasting",
+        "Description": "Processus d'estimation de la demande future basé sur des analyses historiques et actuelles, intégrant les contraintes de production, logistique et gestion des stocks pour anticiper les fluctuations du marché.",
+        "Objectif": "Aligner la production sur la demande et optimiser les niveaux d'inventaire."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Supply Chain Coordination",
+        "Description": "Intégration harmonieuse des flux de production, logistiques et de gestion des stocks pour garantir une chaîne d'approvisionnement fluide et réactive.",
+        "Objectif": "Optimiser la collaboration entre fournisseurs, production et distribution."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Demand Forecasting",
+        "Description": "Processus d'estimation de la demande future basé sur des analyses historiques et actuelles, intégrant les contraintes de production, logistique et gestion des stocks pour anticiper les fluctuations du marché.",
+        "Objectif": "Aligner la production sur la demande et optimiser les niveaux d'inventaire."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Operational Efficiency",
+        "Description": "Amélioration continue des processus internes, en optimisant simultanément la production, la logistique et la gestion des stocks afin de réduire les gaspillages et améliorer la productivité.",
+        "Objectif": "Augmenter l'efficience globale et réduire les coûts opérationnels."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Demand Forecasting",
+        "Description": "Processus d'estimation de la demande future basé sur des analyses historiques et actuelles, intégrant les contraintes de production, logistique et gestion des stocks pour anticiper les fluctuations du marché.",
+        "Objectif": "Aligner la production sur la demande et optimiser les niveaux d'inventaire."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Supply Chain Coordination",
+        "Description": "Intégration harmonieuse des flux de production, logistiques et de gestion des stocks pour garantir une chaîne d'approvisionnement fluide et réactive.",
+        "Objectif": "Optimiser la collaboration entre fournisseurs, production et distribution."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Inventory Management",
+        "Description": "Gestion proactive des stocks pour équilibrer l'offre et la demande, tout en minimisant les coûts de stockage et en évitant les ruptures, grâce à une coordination étroite avec la production et la logistique.",
+        "Objectif": "Maintenir un niveau de stock optimal et réduire les coûts liés à l'inventaire."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Supply Chain Coordination",
+        "Description": "Intégration harmonieuse des flux de production, logistiques et de gestion des stocks pour garantir une chaîne d'approvisionnement fluide et réactive.",
+        "Objectif": "Optimiser la collaboration entre fournisseurs, production et distribution."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Operational Efficiency",
+        "Description": "Amélioration continue des processus internes, en optimisant simultanément la production, la logistique et la gestion des stocks afin de réduire les gaspillages et améliorer la productivité.",
+        "Objectif": "Augmenter l'efficience globale et réduire les coûts opérationnels."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Inventory Management",
+        "Description": "Gestion proactive des stocks pour équilibrer l'offre et la demande, tout en minimisant les coûts de stockage et en évitant les ruptures, grâce à une coordination étroite avec la production et la logistique.",
+        "Objectif": "Maintenir un niveau de stock optimal et réduire les coûts liés à l'inventaire."
+    },
+    {
+        "Processus": "Inventory Management",
+        "Description": "Gestion proactive des stocks pour équilibrer l'offre et la demande, tout en minimisant les coûts de stockage et en évitant les ruptures, grâce à une coordination étroite avec la production et la logistique.",
+        "Objectif": "Maintenir un niveau de stock optimal et réduire les coûts liés à l'inventaire."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Distribution Network Optimization",
+        "Description": "Optimisation du réseau de distribution pour assurer une livraison rapide des produits finis, en intégrant les contraintes de production et la gestion des stocks.",
+        "Objectif": "Améliorer la satisfaction client en réduisant les délais de livraison."
+    },
+    {
+        "Processus": "Logistics Optimization",
+        "Description": "Optimisation des opérations logistiques en planifiant les itinéraires et les délais de livraison tout en tenant compte des impératifs de production et des niveaux de stock.",
+        "Objectif": "Réduire les délais de livraison et les coûts de transport."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Sales & Operations Planning (S&OP)",
+        "Description": "Processus collaboratif qui intègre les prévisions de vente, la planification de la production, la logistique et la gestion des stocks pour aligner l'offre et la demande.",
+        "Objectif": "Optimiser la performance globale et améliorer la réactivité aux variations du marché."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Inventory Management",
+        "Description": "Gestion proactive des stocks pour équilibrer l'offre et la demande, tout en minimisant les coûts de stockage et en évitant les ruptures, grâce à une coordination étroite avec la production et la logistique.",
+        "Objectif": "Maintenir un niveau de stock optimal et réduire les coûts liés à l'inventaire."
+    },
+    {
+        "Processus": "Procurement Planning",
+        "Description": "Planification des achats et approvisionnements pour garantir la disponibilité des matières premières et composants, en tenant compte des contraintes de production, logistique et des niveaux de stock.",
+        "Objectif": "Assurer un approvisionnement constant tout en maîtrisant les coûts."
+    },
+    {
+        "Processus": "Capacity Planning",
+        "Description": "Évaluation et ajustement de la capacité de production en fonction des prévisions de demande, avec une intégration des contraintes logistiques et des niveaux de stock pour éviter les déséquilibres.",
+        "Objectif": "Assurer une utilisation optimale des ressources et éviter la surproduction ou la sous-production."
+    },
+    {
+        "Processus": "Production Planning",
+        "Description": "Planification détaillée des activités de production en tenant compte des capacités de fabrication, des délais logistiques et de la gestion optimale des stocks.",
+        "Objectif": "Maximiser l'efficacité de la production et assurer une disponibilité continue des produits."
+    }
+]

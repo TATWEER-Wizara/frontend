@@ -1,0 +1,422 @@
+[
+    {
+        "ID": 1,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 2,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 3,
+        "Constraint_Type": "Capacity Constraint",
+        "Description": "Capacité de production limitée par le nombre de machines et la disponibilité de la main-d'œuvre.",
+        "Impact": "Risque de ne pas satisfaire une demande croissante, entraînant des retards de livraison."
+    },
+    {
+        "ID": 4,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 5,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 6,
+        "Constraint_Type": "Demand Forecast Constraint",
+        "Description": "Difficulté à prévoir précisément la demande en raison de la volatilité du marché.",
+        "Impact": "Surproduction ou rupture de stock, impact négatif sur la satisfaction client."
+    },
+    {
+        "ID": 7,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 8,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 9,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 10,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 11,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 12,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 13,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 14,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 15,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 16,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 17,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 18,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 19,
+        "Constraint_Type": "Capacity Constraint",
+        "Description": "Capacité de production limitée par le nombre de machines et la disponibilité de la main-d'œuvre.",
+        "Impact": "Risque de ne pas satisfaire une demande croissante, entraînant des retards de livraison."
+    },
+    {
+        "ID": 20,
+        "Constraint_Type": "Demand Forecast Constraint",
+        "Description": "Difficulté à prévoir précisément la demande en raison de la volatilité du marché.",
+        "Impact": "Surproduction ou rupture de stock, impact négatif sur la satisfaction client."
+    },
+    {
+        "ID": 21,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 22,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 23,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 24,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 25,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 26,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 27,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 28,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 29,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 30,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 31,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 32,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 33,
+        "Constraint_Type": "Capacity Constraint",
+        "Description": "Capacité de production limitée par le nombre de machines et la disponibilité de la main-d'œuvre.",
+        "Impact": "Risque de ne pas satisfaire une demande croissante, entraînant des retards de livraison."
+    },
+    {
+        "ID": 34,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 35,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 36,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 37,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 38,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 39,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 40,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 41,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 42,
+        "Constraint_Type": "Capacity Constraint",
+        "Description": "Capacité de production limitée par le nombre de machines et la disponibilité de la main-d'œuvre.",
+        "Impact": "Risque de ne pas satisfaire une demande croissante, entraînant des retards de livraison."
+    },
+    {
+        "ID": 43,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 44,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 45,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 46,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 47,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 48,
+        "Constraint_Type": "Budget Constraint",
+        "Description": "Budget limité pour l'investissement dans les infrastructures et les technologies.",
+        "Impact": "Réduction des capacités d'innovation et difficulté à moderniser les équipements."
+    },
+    {
+        "ID": 49,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 50,
+        "Constraint_Type": "Capacity Constraint",
+        "Description": "Capacité de production limitée par le nombre de machines et la disponibilité de la main-d'œuvre.",
+        "Impact": "Risque de ne pas satisfaire une demande croissante, entraînant des retards de livraison."
+    },
+    {
+        "ID": 51,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 52,
+        "Constraint_Type": "Budget Constraint",
+        "Description": "Budget limité pour l'investissement dans les infrastructures et les technologies.",
+        "Impact": "Réduction des capacités d'innovation et difficulté à moderniser les équipements."
+    },
+    {
+        "ID": 53,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 54,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 55,
+        "Constraint_Type": "Demand Forecast Constraint",
+        "Description": "Difficulté à prévoir précisément la demande en raison de la volatilité du marché.",
+        "Impact": "Surproduction ou rupture de stock, impact négatif sur la satisfaction client."
+    },
+    {
+        "ID": 56,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 57,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 58,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 59,
+        "Constraint_Type": "Budget Constraint",
+        "Description": "Budget limité pour l'investissement dans les infrastructures et les technologies.",
+        "Impact": "Réduction des capacités d'innovation et difficulté à moderniser les équipements."
+    },
+    {
+        "ID": 60,
+        "Constraint_Type": "Supply Chain Constraint",
+        "Description": "Délais longs et imprévisibles pour l'approvisionnement des matières premières.",
+        "Impact": "Risque de rupture de stock et retards dans la production."
+    },
+    {
+        "ID": 61,
+        "Constraint_Type": "Environmental Constraint",
+        "Description": "Normes environnementales strictes limitant les processus de production (ex : émissions de CO2, gestion des déchets).",
+        "Impact": "Investissements supplémentaires pour la conformité et potentiels retards de production."
+    },
+    {
+        "ID": 62,
+        "Constraint_Type": "Workforce Constraint",
+        "Description": "Disponibilité limitée de personnel qualifié et expérimenté.",
+        "Impact": "Baisse de la productivité, retards dans la production et coûts supplémentaires en formation."
+    },
+    {
+        "ID": 63,
+        "Constraint_Type": "Budget Constraint",
+        "Description": "Budget limité pour l'investissement dans les infrastructures et les technologies.",
+        "Impact": "Réduction des capacités d'innovation et difficulté à moderniser les équipements."
+    },
+    {
+        "ID": 64,
+        "Constraint_Type": "Regulatory Constraint",
+        "Description": "Normes et réglementations strictes imposant des contrôles qualité et des procédures de conformité.",
+        "Impact": "Retards dans la mise sur le marché et augmentation des coûts de conformité."
+    },
+    {
+        "ID": 65,
+        "Constraint_Type": "Logistical Constraint",
+        "Description": "Infrastructures logistiques limitées et capacités de transport insuffisantes.",
+        "Impact": "Augmentation des délais de livraison et surcoûts liés au transport."
+    },
+    {
+        "ID": 66,
+        "Constraint_Type": "Demand Forecast Constraint",
+        "Description": "Difficulté à prévoir précisément la demande en raison de la volatilité du marché.",
+        "Impact": "Surproduction ou rupture de stock, impact négatif sur la satisfaction client."
+    },
+    {
+        "ID": 67,
+        "Constraint_Type": "IT Infrastructure Constraint",
+        "Description": "Systèmes informatiques obsolètes ou insuffisants pour supporter la planification intégrée.",
+        "Impact": "Ralentissement des processus décisionnels et erreurs dans les prévisions."
+    },
+    {
+        "ID": 68,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 69,
+        "Constraint_Type": "Quality Constraint",
+        "Description": "Exigences élevées en matière de qualité et de sécurité pour les produits finis.",
+        "Impact": "Augmentation des coûts de contrôle qualité et risque de rappels produits en cas de non-conformité."
+    },
+    {
+        "ID": 70,
+        "Constraint_Type": "Budget Constraint",
+        "Description": "Budget limité pour l'investissement dans les infrastructures et les technologies.",
+        "Impact": "Réduction des capacités d'innovation et difficulté à moderniser les équipements."
+    }
+]
