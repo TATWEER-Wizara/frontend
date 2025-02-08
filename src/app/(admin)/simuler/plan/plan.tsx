@@ -29,7 +29,7 @@ export const Step = ({
         setTimeout(() => {
             setProcess(file.map((e) => e.Processus));
             setLoading(false);
-        }, 1000);
+        }, 8000);
     };
 
     const fetchConstraints = () => {
@@ -37,7 +37,7 @@ export const Step = ({
         setTimeout(() => {
             setConstraints(file2.map((e) => e.Constraint_Type));
             setLoading(false);
-        }, 1000);
+        }, 8000);
     };
 
     return (
