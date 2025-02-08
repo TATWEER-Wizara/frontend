@@ -62,11 +62,11 @@ const page = () => {
                 )}
 
                 {response && (
-                    <div className="h-screen relative overflow-scroll">
+                    <div className="relative overflow-y-auto">
                         <Button className="fixed right-12 bottom-12" onClick={handleStopSimulation}>
                             Arreter Simulation
                         </Button>
-                        {response.map((item, index: number) => (
+                        {response.slice(1, 5).map((item, index: number) => (
                             <div key={index} className="mb-4 p-4 border rounded shadow">
                                 <p>
                                     <strong>Risk:</strong> {item.Risque}

@@ -29,7 +29,7 @@ export const Step = ({
         setTimeout(() => {
             setProcess(file.map((e) => e.Processus));
             setLoading(false);
-        }, 8000);
+        }, 3000);
     };
 
     const fetchConstraints = () => {
@@ -37,7 +37,7 @@ export const Step = ({
         setTimeout(() => {
             setConstraints(file2.map((e) => e.Constraint_Type));
             setLoading(false);
-        }, 8000);
+        }, 3000);
     };
 
     return (
@@ -95,13 +95,13 @@ export const Step = ({
                                     sequence={[
                                         // Same substring at the start will only be typed out once, initially
                                         "preparation de la connexion avec le systeme ...",
-                                        1000, // wait 1s before replacing "Mice" with "Hamsters"
+                                        400, // wait 1s before replacing "Mice" with "Hamsters"
                                         "connexion établie avec l'ERP ...",
-                                        1200,
+                                        800,
                                         "extraction des données en cours ...",
-                                        1700,
+                                        200,
                                         "traitement des données en cours ...",
-                                        1300,
+                                        800,
                                     ]}
                                     cursor={false}
                                     wrapper="span"
@@ -164,13 +164,13 @@ export const Step = ({
                                     sequence={[
                                         // Same substring at the start will only be typed out once, initially
                                         "preparation de la connexion avec le systeme ...",
-                                        1000, // wait 1s before replacing "Mice" with "Hamsters"
+                                        400, // wait 1s before replacing "Mice" with "Hamsters"
                                         "connexion établie avec l'ERP ...",
-                                        1200,
+                                        600,
                                         "extraction des données en cours ...",
-                                        1700,
+                                        800,
                                         "traitement des données en cours ...",
-                                        1300,
+                                        1000,
                                     ]}
                                     cursor={false}
                                     wrapper="span"
